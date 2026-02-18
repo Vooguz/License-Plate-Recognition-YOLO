@@ -45,20 +45,22 @@ The custom YOLO model demonstrates robust performance in detecting plates even w
 ## 💻 Installation & Usage
 **Clone the repository**
 
-Bash
+```Bash
 
 git clone https://github.com/Vooguz/License-Plate-Recognition-YOLO.git
 cd License-Plate-Recognition-YOLO
 Install Dependencies
-
-Bash
+```
+```Bash
 
 pip install ultralytics opencv-python easyocr
 Run the Application
-
-Bash
+```
+```Bash
 
 python License_Plate_Recognition_GUI.py
+```
+
 ## 👨‍💻 Author
 Oğuz Eren
 Computer Engineering Student @Uludağ University
