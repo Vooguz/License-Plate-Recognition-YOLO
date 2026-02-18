@@ -64,6 +64,7 @@ python License_Plate_Recognition_GUI.py
 
 ## 👨‍💻 Author
 Oğuz Eren
+
 Computer Engineering Student @Uludağ University
 
 Contact: oueren81@gmail.com
