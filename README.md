@@ -30,16 +30,17 @@ The project follows a modular pipeline approach:
 └── README.md                        # Project documentation
 ```
 ## 🚀 Key Features
-Real-time Detection: Process video streams with low latency.
+*Real-time Detection: Process video streams with low latency.
 
-Custom Trained Model: The model was trained specifically on Turkish license plate datasets to handle local fonts and formats.
+*Custom Trained Model: The model was trained specifically on Turkish license plate datasets to handle local fonts and formats.
 
-GUI Integration: A dedicated interface to upload videos/images and view results instantly.
+*GUI Integration: A dedicated interface to upload videos/images and view results instantly.
 
-Data Logging: Automatically saves detected plate numbers for database integration.
+*Data Logging: Automatically saves detected plate numbers for database integration.
 
 ## 📊 Model Performance
 The custom YOLO model demonstrates robust performance in detecting plates even with partial occlusion.
+
 (See Model_Accuracy_Table.jpg for detailed metrics)
 
 ## 💻 Installation & Usage
